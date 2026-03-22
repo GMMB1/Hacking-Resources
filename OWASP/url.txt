@@ -1,0 +1,42 @@
+Here are some valuable websites for reconnaissance and bug hunting:
+
+---
+
+**Subdomain & DNS Enumeration**
+- https://dnsdumpster.com/ — DNS recon and subdomain finder
+- https://crt.sh/ — Certificate transparency logs, great for finding subdomains
+- https://securitytrails.com/ — DNS history and subdomain enumeration
+- https://virustotal.com/ — Scan URLs/IPs and find related subdomains
+
+**OSINT & Information Gathering**
+- https://shodan.io/ — Search engine for internet-connected devices
+- https://censys.io/ — Similar to Shodan, finds exposed services
+- https://whois.domaintools.com/ — WHOIS lookup
+- https://www.exploit-db.com/google-hacking-database — Google dorks database
+
+**Email & People**
+- https://hunter.io/ — (you already have this)
+- https://haveibeenpwned.com/ — Check if emails were in data breaches
+- https://www.social-searcher.com/ — Social media OSINT
+
+**Vulnerability & Exploit Research**
+- https://www.exploit-db.com/ — Exploit database
+- https://nvd.nist.gov/ — National vulnerability database (CVEs)
+- https://cve.mitre.org/ — CVE lookup
+
+**Web Application Testing**
+- https://webhook.site/ — Capture HTTP requests (great for XSS/SSRF testing)
+- https://requestbin.com/ — Similar to webhook.site
+- https://portswigger.net/web-security — Free Web Security Academy labs
+
+**Hash & Encoding**
+- https://crackstation.net/ — (you already have this)
+- https://hashes.com/ — Hash cracking
+- https://cyberchef.org/ — All-in-one encoding/decoding/analysis tool (very powerful!)
+
+**Wordlists & Payloads**
+- https://github.com/danielmiessler/SecLists — The best collection of wordlists for fuzzing and brute forcing
+
+---
+
+**CyberChef** and **SecLists** are especially must-haves for anyone doing penetration testing and bug hunting. 🔥
